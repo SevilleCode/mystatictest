@@ -1,0 +1,77 @@
+/* Theme Name: Phantom Pine
+Version: 1.0.5
+/* Theme Name: Phantom Pine
+Version: 1.0.4 */
+a,
+.nav-link {
+    color: white;
+}
+
+.active {
+    color: gold !important;
+}
+
+body {
+    background: linear-gradient(0deg, #232526 0%, #414345 100%);
+    display: grid;
+}
+
+h1,
+.wp-block-post-title {
+    font-family: 'Eagle Lake', cursive;
+}
+
+.card {
+    background-color: transparent;
+}
+
+.card-title,
+.card-title a {
+    color: gold;
+}
+
+#postnav {
+    text-align: right;
+}
+
+.alignleft {
+    float: left;
+    margin-right: 1em;
+}
+
+.alignright {
+    float: right;
+    margin-left: 1em;
+}
+
+.wp-block-post-title a,
+.wp-block-post-excerpt__more-link {
+    color: gold;
+    text-decoration: none;
+}
+
+.top {
+    --offset: 50px;
+    position: sticky;
+    bottom: 15px;
+    margin-right: 10px;
+    place-self: end;
+    margin-top: calc(90vh + var(--offset));
+
+    /* visual styling */
+    width: 45px;
+    aspect-ratio: 1;
+    background: rgba(255,215,0,0.5);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.top:before {
+    content: "";
+    position: absolute;
+    inset: 30%;
+    transform: translateY(20%) rotate(-45deg);
+    border-top: 5px solid #fff;
+    border-right: 5px solid #fff;
+}
