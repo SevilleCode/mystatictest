@@ -1,97 +1,97 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://sevillecode.github.io/mystatictest/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>//adaptation/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/</loc>
 		<lastmod>2024-05-23T18:19:02+00:00</lastmod>
 	</url>
 	<url>
-		<loc>//adaptation/das-phantom-der-oper-1916/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/das-phantom-der-oper-1916/</loc>
 		<lastmod>2024-04-19T20:54:49+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/mask.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/mask.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/mask.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/mask.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/the-phantom-of-the-opera-1925/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/the-phantom-of-the-opera-1925/</loc>
 		<lastmod>2024-04-19T21:11:55+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1925.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1925.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/themes/phantom_pine/1925.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/themes/phantom_pine/1925.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/song-at-midnight-1937/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/song-at-midnight-1937/</loc>
 		<lastmod>2024-04-23T01:32:44+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1937.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1937.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1937.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1937.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/phantom-of-the-opera-1943/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/phantom-of-the-opera-1943/</loc>
 		<lastmod>2024-04-26T14:53:55+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1943.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1943.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1943.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1943.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/the-phantom-of-the-opera-1962/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/the-phantom-of-the-opera-1962/</loc>
 		<lastmod>2024-05-06T15:13:13+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1962.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1962.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1962.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1962.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/yeston-and-kopits-phantom-of-the-opera-tv-miniseries/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/yeston-and-kopits-phantom-of-the-opera-tv-miniseries/</loc>
 		<lastmod>2024-05-23T17:56:58+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1990.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1990.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1990.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1990.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/yeston-and-kopits-phantom-musical/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/yeston-and-kopits-phantom-musical/</loc>
 		<lastmod>2024-05-23T18:04:10+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1991.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1991.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/1991.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/1991.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/andrew-lloyd-webbers-phantom-of-the-opera-movie/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/andrew-lloyd-webbers-phantom-of-the-opera-movie/</loc>
 		<lastmod>2024-05-23T18:15:23+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/2004.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/2004.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/2004.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/2004.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>//adaptation/andrew-lloyd-webbers-phantom-of-the-opera-25th-anniversary-concert/</loc>
+		<loc>https://sevillecode.github.io/mystatictest/adaptation/andrew-lloyd-webbers-phantom-of-the-opera-25th-anniversary-concert/</loc>
 		<lastmod>2024-05-23T18:19:02+00:00</lastmod>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/2011.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/2011.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>//wp-content/uploads/2024/04/2011.jpg</image:loc>
+			<image:loc>https://sevillecode.github.io/mystatictest/wp-content/uploads/2024/04/2011.jpg</image:loc>
 		</image:image>
 	</url>
 </urlset>

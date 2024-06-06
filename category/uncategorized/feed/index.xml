@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Enter the Lair of the Opera Ghost - In Dreams He Came</title>
-	<atom:link href="//category/uncategorized/feed/" rel="self" type="application/rss+xml" />
-	<link>//</link>
+	<atom:link href="https://sevillecode.github.io/mystatictest/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sevillecode.github.io/mystatictest/</link>
 	<description></description>
 	<lastBuildDate>Thu, 18 Apr 2024 15:06:25 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -18,26 +18,26 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>//hello-world/</link>
-					<comments>//hello-world/#comments</comments>
+		<link>https://sevillecode.github.io/mystatictest/hello-world/</link>
+					<comments>https://sevillecode.github.io/mystatictest/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[user]]></dc:creator>
 		<pubDate>Thu, 18 Apr 2024 15:06:25 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=1</guid>
+		<guid isPermaLink="false">https://sevillecode.github.io/mystatictest/?p=1</guid>
 
 					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="//hello-world/">Hello world!</a> appeared first on <a href="//">In Dreams He Came</a>.</p>
+<p>The post <a href="https://sevillecode.github.io/mystatictest/hello-world/">Hello world!</a> appeared first on <a href="https://sevillecode.github.io/mystatictest/">In Dreams He Came</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p>The post <a href="//hello-world/">Hello world!</a> appeared first on <a href="//">In Dreams He Came</a>.</p>
+<p>The post <a href="https://sevillecode.github.io/mystatictest/hello-world/">Hello world!</a> appeared first on <a href="https://sevillecode.github.io/mystatictest/">In Dreams He Came</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://sevillecode.github.io/mystatictest/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

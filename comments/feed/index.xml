@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for In Dreams He Came	</title>
-	<atom:link href="//comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sevillecode.github.io/mystatictest/comments/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Thu, 18 Apr 2024 15:06:25 +0000</lastBuildDate>
@@ -16,15 +16,15 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.3</generator>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>//hello-world/#comment-1</link>
+		<link>https://sevillecode.github.io/mystatictest/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Thu, 18 Apr 2024 15:06:25 +0000</pubDate>
-		<guid isPermaLink="false">//?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://sevillecode.github.io/mystatictest/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
